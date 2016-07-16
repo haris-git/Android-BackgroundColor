@@ -2,8 +2,6 @@
 
 Example of a functional app that on how to change the background color for future reference. You just click on a button and the background color changes. I have also used the light sensor of the device to change the color. In order to activate this function click on the *Light sensor* button.
 
-The format of the app is the same in landscape and portrait mode. Also the user can scroll up and down the screen.
-
 You can see how the app looks like after opening the preview.png
 
 ### Which files of the project are important
